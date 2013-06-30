@@ -1,0 +1,980 @@
+Tlibzbar
+v5
+r1
+cCheck dependencies
+cProcessPCH /var/folders/ty/gppcrvc15xsf_y0x6c_lt7y80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/prefix-gzumbzwykmcvrgckyccfivuewnax/prefix.pch.pth include/prefix.pch normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/ty/gppcrvc15xsf_y0x6c_lt7y80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/prefix-dwgrqwqyxdhqhxhfnkbqjovfvzzk/prefix.pch.pth include/prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/bch15_5.o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/bch15_5.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/i25.o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/decoder/i25.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/config.o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/config.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/code128.o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/decoder/code128.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/code39.o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/decoder/code39.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ean.o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/decoder/ean.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/qr_finder.o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/decoder/qr_finder.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/decoder.o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/decoder.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/error.o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/error.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/image.o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/image.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/img_scanner.o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/img_scanner.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/binarize.o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/binarize.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/isaac.o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/isaac.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/qrdec.o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/qrdec.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/qrdectxt.o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/qrdectxt.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/rs.o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/rs.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/util.o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/util.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/refcnt.o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/refcnt.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/scanner.o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/scanner.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/symbol.o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/symbol.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarHelpController.o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/ZBarHelpController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarReaderController.o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/ZBarReaderController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarSymbol.o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/ZBarSymbol.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarImage.o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/ZBarImage.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarImageScanner.o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/ZBarImageScanner.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarReaderViewController.o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/ZBarReaderViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarReaderView.o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/ZBarReaderView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarCVImage.o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/ZBarCVImage.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/databar.o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/decoder/databar.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarReaderViewImpl_Simulator.o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/ZBarReaderViewImpl_Simulator.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/code93.o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/decoder/code93.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarCameraSimulator.o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/ZBarCameraSimulator.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/codabar.o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/decoder/codabar.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator/libzbar.a normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk
+c0000000050EDEAFB0000000000000110
+t1357769467
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c0000000050F4CA7C0000000000000944
+t1358219900
+s2372
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c0000000050F4CA7F0000000000000B8F
+t1358219903
+s2959
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h
+c0000000050F4CA8000000000000004FE
+t1358219904
+s1278
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreMedia.framework/Headers/CoreMedia.h
+c0000000050F4CA8200000000000002CF
+t1358219906
+s719
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreVideo.framework/Headers/CoreVideo.h
+c0000000050F4CA88000000000000057A
+t1358219912
+s1402
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c0000000050F4CA8C00000000000015F7
+t1358219916
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c0000000050F4CAB900000000000000C4
+t1358219961
+s196
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c0000000050D532860000000000000E8D
+t1356149382
+s3725
+
+N/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/config.c
+c0000000051D035F100000000000014F4
+t1372599793
+s5364
+
+N/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/decoder.c
+c0000000051D035F10000000000003769
+t1372599793
+s14185
+
+N/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/decoder/codabar.c
+c0000000051D035F10000000000003010
+t1372599793
+s12304
+
+N/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/decoder/code128.c
+c0000000051D000800000000000004FB7
+t1372586112
+s20407
+
+N/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/decoder/code39.c
+c0000000051D0008000000000000028AE
+t1372586112
+s10414
+
+N/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/decoder/code93.c
+c0000000051D000800000000000002A8B
+t1372586112
+s10891
+
+N/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/decoder/databar.c
+c0000000051D035F100000000000087FA
+t1372599793
+s34810
+
+N/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/decoder/ean.c
+c0000000051D000800000000000006460
+t1372586112
+s25696
+
+N/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/decoder/i25.c
+c0000000051D000800000000000001E50
+t1372586112
+s7760
+
+N/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/decoder/qr_finder.c
+c0000000051D000800000000000000CCB
+t1372586112
+s3275
+
+N/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/error.c
+c0000000051D0008000000000000016DA
+t1372586112
+s5850
+
+N/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/image.c
+c0000000051D00080000000000000232C
+t1372586112
+s9004
+
+N/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/img_scanner.c
+c0000000051D035F10000000000006A4C
+t1372599793
+s27212
+
+N/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/bch15_5.c
+c0000000051D0008000000000000013BE
+t1372586112
+s5054
+
+N/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/binarize.c
+c0000000051D000800000000000004C7A
+t1372586112
+s19578
+
+N/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/isaac.c
+c0000000051D000800000000000000EDF
+t1372586112
+s3807
+
+N/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/qrdec.c
+c0000000051D000800000000000021A4B
+t1372586112
+s137803
+
+N/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/qrdectxt.c
+c0000000051D035F10000000000003E2A
+t1372599793
+s15914
+
+N/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/rs.c
+c0000000051D0008000000000000066E1
+t1372586112
+s26337
+
+N/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/util.c
+c0000000051D000800000000000000D5A
+t1372586112
+s3418
+
+N/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/refcnt.c
+c0000000051D0008000000000000005BC
+t1372586112
+s1468
+
+N/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/scanner.c
+c0000000051D00080000000000000278F
+t1372586112
+s10127
+
+N/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/symbol.c
+c0000000051D035F10000000000002C3F
+t1372599793
+s11327
+
+N/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/ZBarCVImage.m
+c0000000051D000800000000000001767
+t1372586112
+s5991
+
+N/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/ZBarCameraSimulator.m
+c0000000051D000800000000000000E33
+t1372586112
+s3635
+
+N/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/ZBarHelpController.m
+c0000000051D000800000000000001EF6
+t1372586112
+s7926
+
+N/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/ZBarImage.m
+c0000000051D000800000000000001ED6
+t1372586112
+s7894
+
+N/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/ZBarImageScanner.m
+c0000000051D0008000000000000008F4
+t1372586112
+s2292
+
+N/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/ZBarReaderController.m
+c0000000051D0008000000000000055A8
+t1372586112
+s21928
+
+N/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/ZBarReaderView.m
+c0000000051D035F1000000000000445D
+t1372599793
+s17501
+
+N/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/ZBarReaderViewController.m
+c0000000051D035F100000000000051E0
+t1372599793
+s20960
+
+N/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/ZBarReaderViewImpl_Simulator.m
+c0000000051D0008000000000000016D5
+t1372586112
+s5845
+
+N/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/ZBarSymbol.m
+c0000000051D0008000000000000011EB
+t1372586112
+s4587
+
+N/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarCVImage.o
+t2
+s0
+
+N/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarCameraSimulator.o
+t2
+s0
+
+N/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarHelpController.o
+t2
+s0
+
+N/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarImage.o
+t2
+s0
+
+N/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarImageScanner.o
+t2
+s0
+
+N/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarReaderController.o
+t2
+s0
+
+N/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarReaderView.o
+t2
+s0
+
+N/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarReaderViewController.o
+t2
+s0
+
+N/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarReaderViewImpl_Simulator.o
+t2
+s0
+
+N/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarSymbol.o
+t2
+s0
+
+N/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/bch15_5.o
+t2
+s0
+
+N/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/binarize.o
+t2
+s0
+
+N/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/codabar.o
+t2
+s0
+
+N/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/code128.o
+t2
+s0
+
+N/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/code39.o
+t2
+s0
+
+N/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/code93.o
+t2
+s0
+
+N/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/config.o
+t2
+s0
+
+N/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/databar.o
+t2
+s0
+
+N/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/decoder.o
+t2
+s0
+
+N/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ean.o
+t2
+s0
+
+N/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/error.o
+t2
+s0
+
+N/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/i25.o
+t2
+s0
+
+N/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/image.o
+t2
+s0
+
+N/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/img_scanner.o
+t2
+s0
+
+N/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/isaac.o
+t2
+s0
+
+N/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/qr_finder.o
+t2
+s0
+
+N/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/qrdec.o
+t2
+s0
+
+N/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/qrdectxt.o
+t2
+s0
+
+N/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/refcnt.o
+t2
+s0
+
+N/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/rs.o
+t2
+s0
+
+N/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/scanner.o
+t2
+s0
+
+N/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/symbol.o
+t2
+s0
+
+N/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/util.o
+t2
+s0
+
+N/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/zbar.LinkFileList
+c0000000051D036A2000000000000106B
+t1372599970
+s4203
+
+N/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/include/prefix.pch
+c0000000051D000800000000000000131
+t1372586112
+s305
+i<Foundation/Foundation.h>
+i<CoreFoundation/CoreFoundation.h>
+i<CoreGraphics/CoreGraphics.h>
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+i<AVFoundation/AVFoundation.h>
+i<CoreMedia/CoreMedia.h>
+i<CoreVideo/CoreVideo.h>
+
+N/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator/libzbar.a
+t1372599962
+s1376736
+
+N/var/folders/ty/gppcrvc15xsf_y0x6c_lt7y80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/prefix-dwgrqwqyxdhqhxhfnkbqjovfvzzk/prefix.pch.pth
+t2
+s0
+
+N/var/folders/ty/gppcrvc15xsf_y0x6c_lt7y80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/prefix-gzumbzwykmcvrgckyccfivuewnax/prefix.pch.pth
+t2
+s0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciese2b050226e80b741^75e672226e80b741^---0#1#0#--18"Check dependencies36"C927BA69-F3A7-432A-8E42-D661DC0212E0-
+
+CCompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarCVImage.o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/ZBarCVImage.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s394292771.806947
+e394292771.888213
+r1
+xCompileC
+xbuild/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarCVImage.o
+x/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/ZBarCVImage.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/ZBarCVImage.mdc10cf236e80b741^3561e3236e80b741^---0#0#0#-19%DVTDocumentLocation2@69"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/ZBarCVImage.m0000000000000000^2525"CompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarCVImage.o ZBarCVImage.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tony/Dev/ZBarLib/zzz/zbar/iphone    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DNDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=3.1 -I/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator/include -Iinclude -I../include -I../zbar -I/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/DerivedSources/i386 -I/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/DerivedSources -F/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator -include /var/folders/ty/gppcrvc15xsf_y0x6c_lt7y80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/prefix-dwgrqwqyxdhqhxhfnkbqjovfvzzk/prefix.pch -MMD -MT dependencies -MF /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarCVImage.d --serialize-diagnostics /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarCVImage.dia -c /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/ZBarCVImage.m -o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarCVImage.o36"8C89A75F-6670-4C43-A53B-A0A5DF21581C-
+
+CCompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarCameraSimulator.o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/ZBarCameraSimulator.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s394292772.205721
+e394292772.345077
+r1
+xCompileC
+xbuild/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarCameraSimulator.o
+x/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/ZBarCameraSimulator.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/ZBarCameraSimulator.m321e35246e80b741^3f5658246e80b741^---0#0#0#-19%DVTDocumentLocation2@77"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/ZBarCameraSimulator.m0000000000000000^2573"CompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarCameraSimulator.o ZBarCameraSimulator.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tony/Dev/ZBarLib/zzz/zbar/iphone    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DNDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=3.1 -I/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator/include -Iinclude -I../include -I../zbar -I/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/DerivedSources/i386 -I/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/DerivedSources -F/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator -include /var/folders/ty/gppcrvc15xsf_y0x6c_lt7y80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/prefix-dwgrqwqyxdhqhxhfnkbqjovfvzzk/prefix.pch -MMD -MT dependencies -MF /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarCameraSimulator.d --serialize-diagnostics /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarCameraSimulator.dia -c /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/ZBarCameraSimulator.m -o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarCameraSimulator.o36"317DE7E8-EC62-4528-BE65-1C9F960C41AD-
+
+CCompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarHelpController.o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/ZBarHelpController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s394292771.438237
+e394292771.617027
+r1
+xCompileC
+xbuild/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarHelpController.o
+x/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/ZBarHelpController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/ZBarHelpController.m93ab70236e80b741^e4f49d236e80b741^---0#0#0#-19%DVTDocumentLocation2@76"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/ZBarHelpController.m0000000000000000^2567"CompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarHelpController.o ZBarHelpController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tony/Dev/ZBarLib/zzz/zbar/iphone    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DNDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=3.1 -I/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator/include -Iinclude -I../include -I../zbar -I/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/DerivedSources/i386 -I/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/DerivedSources -F/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator -include /var/folders/ty/gppcrvc15xsf_y0x6c_lt7y80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/prefix-dwgrqwqyxdhqhxhfnkbqjovfvzzk/prefix.pch -MMD -MT dependencies -MF /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarHelpController.d --serialize-diagnostics /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarHelpController.dia -c /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/ZBarHelpController.m -o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarHelpController.o36"31CFE8F6-1EF5-4AD3-807A-C19EA90A7AC2-
+
+CCompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarImage.o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/ZBarImage.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s394292771.618358
+e394292771.776019
+r1
+xCompileC
+xbuild/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarImage.o
+x/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/ZBarImage.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Compile /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/ZBarImage.m10cb9e236e80b741^b9a8c6236e80b741^---0#0#0#-19%DVTDocumentLocation2@67"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/ZBarImage.m0000000000000000^2513"CompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarImage.o ZBarImage.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tony/Dev/ZBarLib/zzz/zbar/iphone    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DNDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=3.1 -I/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator/include -Iinclude -I../include -I../zbar -I/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/DerivedSources/i386 -I/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/DerivedSources -F/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator -include /var/folders/ty/gppcrvc15xsf_y0x6c_lt7y80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/prefix-dwgrqwqyxdhqhxhfnkbqjovfvzzk/prefix.pch -MMD -MT dependencies -MF /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarImage.d --serialize-diagnostics /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarImage.dia -c /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/ZBarImage.m -o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarImage.o36"A286D603-2A86-4AFF-92D9-A798B103DD42-
+
+CCompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarImageScanner.o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/ZBarImageScanner.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s394292771.654450
+e394292771.719657
+r1
+xCompileC
+xbuild/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarImageScanner.o
+x/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/ZBarImageScanner.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/ZBarImageScanner.m2507a8236e80b741^b83ab8236e80b741^---0#0#0#-19%DVTDocumentLocation2@74"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/ZBarImageScanner.m0000000000000000^2555"CompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarImageScanner.o ZBarImageScanner.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tony/Dev/ZBarLib/zzz/zbar/iphone    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DNDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=3.1 -I/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator/include -Iinclude -I../include -I../zbar -I/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/DerivedSources/i386 -I/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/DerivedSources -F/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator -include /var/folders/ty/gppcrvc15xsf_y0x6c_lt7y80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/prefix-dwgrqwqyxdhqhxhfnkbqjovfvzzk/prefix.pch -MMD -MT dependencies -MF /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarImageScanner.d --serialize-diagnostics /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarImageScanner.dia -c /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/ZBarImageScanner.m -o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarImageScanner.o36"71285A2C-0C76-4596-BB17-914E36A5321B-
+
+CCompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarReaderController.o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/ZBarReaderController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s394292771.492253
+e394292771.805648
+r1
+xCompileC
+xbuild/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarReaderController.o
+x/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/ZBarReaderController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/ZBarReaderController.mfc8d7e236e80b741^384ece236e80b741^---0#0#0#-19%DVTDocumentLocation2@78"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/ZBarReaderController.m0000000000000000^2579"CompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarReaderController.o ZBarReaderController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tony/Dev/ZBarLib/zzz/zbar/iphone    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DNDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=3.1 -I/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator/include -Iinclude -I../include -I../zbar -I/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/DerivedSources/i386 -I/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/DerivedSources -F/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator -include /var/folders/ty/gppcrvc15xsf_y0x6c_lt7y80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/prefix-dwgrqwqyxdhqhxhfnkbqjovfvzzk/prefix.pch -MMD -MT dependencies -MF /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarReaderController.d --serialize-diagnostics /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarReaderController.dia -c /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/ZBarReaderController.m -o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarReaderController.o36"58F15FFB-9368-4A5B-A1E9-96BF3EA7E8F5-
+
+CCompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarReaderView.o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/ZBarReaderView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s394292771.777763
+e394292772.042639
+r1
+xCompileC
+xbuild/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarReaderView.o
+x/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/ZBarReaderView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compile /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/ZBarReaderView.m6d8ec7236e80b741^9ae90a246e80b741^---0#0#0#-19%DVTDocumentLocation2@72"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/ZBarReaderView.m0000000000000000^2543"CompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarReaderView.o ZBarReaderView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tony/Dev/ZBarLib/zzz/zbar/iphone    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DNDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=3.1 -I/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator/include -Iinclude -I../include -I../zbar -I/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/DerivedSources/i386 -I/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/DerivedSources -F/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator -include /var/folders/ty/gppcrvc15xsf_y0x6c_lt7y80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/prefix-dwgrqwqyxdhqhxhfnkbqjovfvzzk/prefix.pch -MMD -MT dependencies -MF /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarReaderView.d --serialize-diagnostics /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarReaderView.dia -c /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/ZBarReaderView.m -o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarReaderView.o36"F5A04534-086F-44E5-B978-FB61CCEB9E2E-
+
+CCompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarReaderViewController.o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/ZBarReaderViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s394292771.721056
+e394292772.065992
+r1
+xCompileC
+xbuild/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarReaderViewController.o
+x/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/ZBarReaderViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/ZBarReaderViewController.m7616b9236e80b741^e12811246e80b741^---0#0#0#-19%DVTDocumentLocation2@82"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/ZBarReaderViewController.m0000000000000000^2603"CompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarReaderViewController.o ZBarReaderViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tony/Dev/ZBarLib/zzz/zbar/iphone    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DNDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=3.1 -I/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator/include -Iinclude -I../include -I../zbar -I/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/DerivedSources/i386 -I/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/DerivedSources -F/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator -include /var/folders/ty/gppcrvc15xsf_y0x6c_lt7y80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/prefix-dwgrqwqyxdhqhxhfnkbqjovfvzzk/prefix.pch -MMD -MT dependencies -MF /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarReaderViewController.d --serialize-diagnostics /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarReaderViewController.dia -c /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/ZBarReaderViewController.m -o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarReaderViewController.o36"7426A796-45B5-44A2-8BE6-0D9A83DD46A1-
+
+CCompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarReaderViewImpl_Simulator.o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/ZBarReaderViewImpl_Simulator.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s394292772.044024
+e394292772.204394
+r1
+xCompileC
+xbuild/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarReaderViewImpl_Simulator.o
+x/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/ZBarReaderViewImpl_Simulator.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/ZBarReaderViewImpl_Simulator.m05c10b246e80b741^835234246e80b741^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/ZBarReaderViewImpl_Simulator.m0000000000000000^2627"CompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarReaderViewImpl_Simulator.o ZBarReaderViewImpl_Simulator.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tony/Dev/ZBarLib/zzz/zbar/iphone    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DNDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=3.1 -I/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator/include -Iinclude -I../include -I../zbar -I/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/DerivedSources/i386 -I/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/DerivedSources -F/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator -include /var/folders/ty/gppcrvc15xsf_y0x6c_lt7y80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/prefix-dwgrqwqyxdhqhxhfnkbqjovfvzzk/prefix.pch -MMD -MT dependencies -MF /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarReaderViewImpl_Simulator.d --serialize-diagnostics /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarReaderViewImpl_Simulator.dia -c /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/ZBarReaderViewImpl_Simulator.m -o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarReaderViewImpl_Simulator.o36"90C08132-806D-44DC-B9B4-2A52BECFDA9D-
+
+CCompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarSymbol.o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/ZBarSymbol.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s394292771.561376
+e394292771.639407
+r1
+xCompileC
+xbuild/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarSymbol.o
+x/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/ZBarSymbol.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Compile /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/ZBarSymbol.m873690236e80b741^a800a4236e80b741^---0#0#0#-19%DVTDocumentLocation2@68"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/ZBarSymbol.m0000000000000000^2519"CompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarSymbol.o ZBarSymbol.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tony/Dev/ZBarLib/zzz/zbar/iphone    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DNDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=3.1 -I/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator/include -Iinclude -I../include -I../zbar -I/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/DerivedSources/i386 -I/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/DerivedSources -F/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator -include /var/folders/ty/gppcrvc15xsf_y0x6c_lt7y80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/prefix-dwgrqwqyxdhqhxhfnkbqjovfvzzk/prefix.pch -MMD -MT dependencies -MF /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarSymbol.d --serialize-diagnostics /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarSymbol.dia -c /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/ZBarSymbol.m -o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ZBarSymbol.o36"D042355B-098E-4979-A2BB-A1638F0C9DF7-
+
+CCompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/bch15_5.o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/bch15_5.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s394292770.484691
+e394292770.596231
+r1
+xCompileC
+xbuild/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/bch15_5.o
+x/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/bch15_5.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/bch15_5.ccc967c226e80b741^08ac98226e80b741^---0#0#0#-19%DVTDocumentLocation2@80"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/bch15_5.c0000000000000000^2304"CompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/bch15_5.o ../zbar/qrcode/bch15_5.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tony/Dev/ZBarLib/zzz/zbar/iphone    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DNDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -mios-simulator-version-min=3.1 -I/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator/include -Iinclude -I../include -I../zbar -I/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/DerivedSources/i386 -I/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/DerivedSources -F/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator -include /var/folders/ty/gppcrvc15xsf_y0x6c_lt7y80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/prefix-gzumbzwykmcvrgckyccfivuewnax/prefix.pch -MMD -MT dependencies -MF /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/bch15_5.d --serialize-diagnostics /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/bch15_5.dia -c /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/bch15_5.c -o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/bch15_5.o36"451F879E-5F91-4FA3-B62E-B616482E5448-
+
+CCompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/binarize.o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/binarize.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s394292771.096923
+e394292771.184806
+r1
+xCompileC
+xbuild/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/binarize.o
+x/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/binarize.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/binarize.c605919236e80b741^ca4e2f236e80b741^---0#0#0#-19%DVTDocumentLocation2@81"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/binarize.c0000000000000000^2310"CompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/binarize.o ../zbar/qrcode/binarize.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tony/Dev/ZBarLib/zzz/zbar/iphone    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DNDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -mios-simulator-version-min=3.1 -I/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator/include -Iinclude -I../include -I../zbar -I/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/DerivedSources/i386 -I/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/DerivedSources -F/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator -include /var/folders/ty/gppcrvc15xsf_y0x6c_lt7y80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/prefix-gzumbzwykmcvrgckyccfivuewnax/prefix.pch -MMD -MT dependencies -MF /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/binarize.d --serialize-diagnostics /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/binarize.dia -c /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/binarize.c -o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/binarize.o36"8D5A7D24-D20F-49FA-AE0C-50D38FA8FAF2-
+
+CCompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/codabar.o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/decoder/codabar.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s394292772.228359
+e394292772.370844
+r1
+xCompileC
+xbuild/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/codabar.o
+x/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/decoder/codabar.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/decoder/codabar.c4aec3a246e80b741^d9ee5e246e80b741^---0#0#0#-19%DVTDocumentLocation2@81"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/decoder/codabar.c0000000000000000^2306"CompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/codabar.o ../zbar/decoder/codabar.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tony/Dev/ZBarLib/zzz/zbar/iphone    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DNDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -mios-simulator-version-min=3.1 -I/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator/include -Iinclude -I../include -I../zbar -I/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/DerivedSources/i386 -I/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/DerivedSources -F/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator -include /var/folders/ty/gppcrvc15xsf_y0x6c_lt7y80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/prefix-gzumbzwykmcvrgckyccfivuewnax/prefix.pch -MMD -MT dependencies -MF /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/codabar.d --serialize-diagnostics /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/codabar.dia -c /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/decoder/codabar.c -o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/codabar.o36"4BE05A2B-3995-41E9-92D8-1949675AB026-
+
+CCompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/code128.o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/decoder/code128.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s394292770.570176
+e394292770.865569
+r1
+xCompileC
+xbuild/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/code128.o
+x/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/decoder/code128.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/decoder/code128.cab9892226e80b741^eab1dd226e80b741^---0#0#0#-19%DVTDocumentLocation2@81"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/decoder/code128.c0000000000000000^2306"CompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/code128.o ../zbar/decoder/code128.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tony/Dev/ZBarLib/zzz/zbar/iphone    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DNDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -mios-simulator-version-min=3.1 -I/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator/include -Iinclude -I../include -I../zbar -I/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/DerivedSources/i386 -I/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/DerivedSources -F/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator -include /var/folders/ty/gppcrvc15xsf_y0x6c_lt7y80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/prefix-gzumbzwykmcvrgckyccfivuewnax/prefix.pch -MMD -MT dependencies -MF /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/code128.d --serialize-diagnostics /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/code128.dia -c /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/decoder/code128.c -o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/code128.o36"FD719CF2-1D4C-4354-883A-D44205965BDA-
+
+CCompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/code39.o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/decoder/code39.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s394292770.597566
+e394292770.795668
+r1
+xCompileC
+xbuild/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/code39.o
+x/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/decoder/code39.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/decoder/code39.c8e7599226e80b741^65e1cb226e80b741^---0#0#0#-19%DVTDocumentLocation2@80"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/decoder/code39.c0000000000000000^2300"CompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/code39.o ../zbar/decoder/code39.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tony/Dev/ZBarLib/zzz/zbar/iphone    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DNDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -mios-simulator-version-min=3.1 -I/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator/include -Iinclude -I../include -I../zbar -I/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/DerivedSources/i386 -I/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/DerivedSources -F/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator -include /var/folders/ty/gppcrvc15xsf_y0x6c_lt7y80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/prefix-gzumbzwykmcvrgckyccfivuewnax/prefix.pch -MMD -MT dependencies -MF /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/code39.d --serialize-diagnostics /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/code39.dia -c /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/decoder/code39.c -o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/code39.o36"F3A032C1-19B4-42D5-97CB-D51305F98C68-
+
+CCompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/code93.o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/decoder/code93.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s394292772.067307
+e394292772.222300
+r1
+xCompileC
+xbuild/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/code93.o
+x/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/decoder/code93.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/decoder/code93.c13b811246e80b741^1bf538246e80b741^---0#0#0#-19%DVTDocumentLocation2@80"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/decoder/code93.c0000000000000000^2300"CompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/code93.o ../zbar/decoder/code93.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tony/Dev/ZBarLib/zzz/zbar/iphone    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DNDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -mios-simulator-version-min=3.1 -I/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator/include -Iinclude -I../include -I../zbar -I/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/DerivedSources/i386 -I/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/DerivedSources -F/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator -include /var/folders/ty/gppcrvc15xsf_y0x6c_lt7y80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/prefix-gzumbzwykmcvrgckyccfivuewnax/prefix.pch -MMD -MT dependencies -MF /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/code93.d --serialize-diagnostics /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/code93.dia -c /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/decoder/code93.c -o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/code93.o36"ED23AABD-75BA-4297-B15A-1B50FAAB6596-
+
+CCompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/config.o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/config.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s394292770.490576
+e394292770.566174
+r1
+xCompileC
+xbuild/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/config.o
+x/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/config.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compile /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/config.c4e0b7e226e80b741^83e091226e80b741^---0#0#0#-19%DVTDocumentLocation2@72"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/config.c0000000000000000^2284"CompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/config.o ../zbar/config.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tony/Dev/ZBarLib/zzz/zbar/iphone    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DNDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -mios-simulator-version-min=3.1 -I/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator/include -Iinclude -I../include -I../zbar -I/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/DerivedSources/i386 -I/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/DerivedSources -F/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator -include /var/folders/ty/gppcrvc15xsf_y0x6c_lt7y80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/prefix-gzumbzwykmcvrgckyccfivuewnax/prefix.pch -MMD -MT dependencies -MF /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/config.d --serialize-diagnostics /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/config.dia -c /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/config.c -o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/config.o36"AA5B32D7-60EF-4DE1-9BBB-B1443013545F-
+
+CCompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/databar.o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/decoder/databar.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s394292771.889849
+e394292772.457390
+r1
+xCompileC
+xbuild/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/databar.o
+x/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/decoder/databar.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/decoder/databar.ccf48e4236e80b741^a91675246e80b741^---0#0#0#-19%DVTDocumentLocation2@81"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/decoder/databar.c0000000000000000^2306"CompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/databar.o ../zbar/decoder/databar.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tony/Dev/ZBarLib/zzz/zbar/iphone    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DNDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -mios-simulator-version-min=3.1 -I/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator/include -Iinclude -I../include -I../zbar -I/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/DerivedSources/i386 -I/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/DerivedSources -F/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator -include /var/folders/ty/gppcrvc15xsf_y0x6c_lt7y80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/prefix-gzumbzwykmcvrgckyccfivuewnax/prefix.pch -MMD -MT dependencies -MF /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/databar.d --serialize-diagnostics /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/databar.dia -c /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/decoder/databar.c -o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/databar.o36"473A91A4-0C61-4585-B6B1-3CACC054A687-
+
+CCompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/decoder.o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/decoder.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s394292770.866852
+e394292771.012104
+r1
+xCompileC
+xbuild/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/decoder.o
+x/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/decoder.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/decoder.c:500:12: warning: comparison of unsigned enum expression >= 0 is always true [-Wtautological-compare]
+o    if(cfg >= 0 && cfg < ZBAR_CFG_NUM)
+o       ~~~ ^  ~
+o1 warning generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/decoder.cae65de226e80b741^871803236e80b741^-235"/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/decoder.c:500:12: warning: comparison of unsigned enum expression >= 0 is always true [-Wtautological-compare]    if(cfg >= 0 && cfg < ZBAR_CFG_NUM)       ~~~ ^  ~1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@58"Comparison of unsigned enum expression >= 0 is always true-394292771#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@63"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/decoder.c0000000000000000^499#11#499#11#13245#0#14"Semantic Issue2(3@63"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/decoder.c0000000000000000^499#7#499#10#13241#0#3@63"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/decoder.c0000000000000000^499#14#499#15#13248#0#-0#0#0#-19%DVTDocumentLocation4@73"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/decoder.c0000000000000000^2290"CompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/decoder.o ../zbar/decoder.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tony/Dev/ZBarLib/zzz/zbar/iphone    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DNDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -mios-simulator-version-min=3.1 -I/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator/include -Iinclude -I../include -I../zbar -I/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/DerivedSources/i386 -I/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/DerivedSources -F/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator -include /var/folders/ty/gppcrvc15xsf_y0x6c_lt7y80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/prefix-gzumbzwykmcvrgckyccfivuewnax/prefix.pch -MMD -MT dependencies -MF /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/decoder.d --serialize-diagnostics /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/decoder.dia -c /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/decoder.c -o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/decoder.o36"D1E53E74-5A28-4BEA-A04D-0EE5CDDC5B60-
+
+CCompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ean.o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/decoder/ean.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s394292770.632961
+e394292771.146375
+r1
+xCompileC
+xbuild/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ean.o
+x/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/decoder/ean.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/decoder/ean.c0490a2226e80b741^e58025236e80b741^---0#0#0#-19%DVTDocumentLocation2@77"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/decoder/ean.c0000000000000000^2282"CompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ean.o ../zbar/decoder/ean.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tony/Dev/ZBarLib/zzz/zbar/iphone    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DNDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -mios-simulator-version-min=3.1 -I/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator/include -Iinclude -I../include -I../zbar -I/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/DerivedSources/i386 -I/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/DerivedSources -F/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator -include /var/folders/ty/gppcrvc15xsf_y0x6c_lt7y80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/prefix-gzumbzwykmcvrgckyccfivuewnax/prefix.pch -MMD -MT dependencies -MF /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ean.d --serialize-diagnostics /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ean.dia -c /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/decoder/ean.c -o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/ean.o36"C0828E96-6281-490C-B1DC-EBE368744586-
+
+CCompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/error.o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/error.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s394292770.899803
+e394292770.972974
+r1
+xCompileC
+xbuild/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/error.o
+x/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/error.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/error.c:122:18: warning: comparison of unsigned enum expression >= 0 is always true [-Wtautological-compare]
+o    if(err->type >= 0 && err->type < ZBAR_ERR_NUM)
+o       ~~~~~~~~~ ^  ~
+o1 warning generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Compile /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/error.c0fd3e6226e80b741^0630f9226e80b741^-251"/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/error.c:122:18: warning: comparison of unsigned enum expression >= 0 is always true [-Wtautological-compare]    if(err->type >= 0 && err->type < ZBAR_ERR_NUM)       ~~~~~~~~~ ^  ~1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@58"Comparison of unsigned enum expression >= 0 is always true-394292770#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@61"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/error.c0000000000000000^121#17#121#17#3703#0#14"Semantic Issue2(3@61"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/error.c0000000000000000^121#7#121#16#3693#5#3@61"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/error.c0000000000000000^121#20#121#21#3706#0#-0#0#0#-19%DVTDocumentLocation4@71"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/error.c0000000000000000^2278"CompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/error.o ../zbar/error.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tony/Dev/ZBarLib/zzz/zbar/iphone    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DNDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -mios-simulator-version-min=3.1 -I/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator/include -Iinclude -I../include -I../zbar -I/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/DerivedSources/i386 -I/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/DerivedSources -F/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator -include /var/folders/ty/gppcrvc15xsf_y0x6c_lt7y80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/prefix-gzumbzwykmcvrgckyccfivuewnax/prefix.pch -MMD -MT dependencies -MF /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/error.d --serialize-diagnostics /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/error.dia -c /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/error.c -o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/error.o36"25D25750-750A-4D78-B5E2-FFDC51390CFA-
+
+CCompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/i25.o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/decoder/i25.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s394292770.487010
+e394292770.630325
+r1
+xCompileC
+xbuild/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/i25.o
+x/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/decoder/i25.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/decoder/i25.c92237d226e80b741^e6cda1226e80b741^---0#0#0#-19%DVTDocumentLocation2@77"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/decoder/i25.c0000000000000000^2282"CompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/i25.o ../zbar/decoder/i25.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tony/Dev/ZBarLib/zzz/zbar/iphone    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DNDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -mios-simulator-version-min=3.1 -I/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator/include -Iinclude -I../include -I../zbar -I/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/DerivedSources/i386 -I/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/DerivedSources -F/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator -include /var/folders/ty/gppcrvc15xsf_y0x6c_lt7y80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/prefix-gzumbzwykmcvrgckyccfivuewnax/prefix.pch -MMD -MT dependencies -MF /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/i25.d --serialize-diagnostics /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/i25.dia -c /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/decoder/i25.c -o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/i25.o36"49C9C7DF-187E-4E9B-990C-D6451AE2CF1E-
+
+CCompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/image.o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/image.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s394292770.974420
+e394292771.095629
+r1
+xCompileC
+xbuild/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/image.o
+x/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/image.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Compile /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/image.c56f2f9226e80b741^058618236e80b741^---0#0#0#-19%DVTDocumentLocation2@71"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/image.c0000000000000000^2278"CompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/image.o ../zbar/image.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tony/Dev/ZBarLib/zzz/zbar/iphone    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DNDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -mios-simulator-version-min=3.1 -I/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator/include -Iinclude -I../include -I../zbar -I/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/DerivedSources/i386 -I/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/DerivedSources -F/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator -include /var/folders/ty/gppcrvc15xsf_y0x6c_lt7y80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/prefix-gzumbzwykmcvrgckyccfivuewnax/prefix.pch -MMD -MT dependencies -MF /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/image.d --serialize-diagnostics /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/image.dia -c /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/image.c -o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/image.o36"898618F9-7B5C-4915-A5DF-4C463E2F9047-
+
+CCompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/img_scanner.o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/img_scanner.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s394292771.013501
+e394292771.227885
+r1
+xCompileC
+xbuild/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/img_scanner.o
+x/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/img_scanner.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/img_scanner.c20f103236e80b741^f3553a236e80b741^---0#0#0#-19%DVTDocumentLocation2@77"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/img_scanner.c0000000000000000^2314"CompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/img_scanner.o ../zbar/img_scanner.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tony/Dev/ZBarLib/zzz/zbar/iphone    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DNDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -mios-simulator-version-min=3.1 -I/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator/include -Iinclude -I../include -I../zbar -I/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/DerivedSources/i386 -I/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/DerivedSources -F/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator -include /var/folders/ty/gppcrvc15xsf_y0x6c_lt7y80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/prefix-gzumbzwykmcvrgckyccfivuewnax/prefix.pch -MMD -MT dependencies -MF /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/img_scanner.d --serialize-diagnostics /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/img_scanner.dia -c /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/img_scanner.c -o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/img_scanner.o36"8FB6C564-055B-4F0B-BBB4-8EC2B236F5BA-
+
+CCompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/isaac.o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/isaac.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s394292771.146730
+e394292771.238238
+r1
+xCompileC
+xbuild/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/isaac.o
+x/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/isaac.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/isaac.cb40326236e80b741^10953e236e80b741^---0#0#0#-19%DVTDocumentLocation2@78"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/isaac.c0000000000000000^2292"CompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/isaac.o ../zbar/qrcode/isaac.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tony/Dev/ZBarLib/zzz/zbar/iphone    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DNDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -mios-simulator-version-min=3.1 -I/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator/include -Iinclude -I../include -I../zbar -I/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/DerivedSources/i386 -I/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/DerivedSources -F/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator -include /var/folders/ty/gppcrvc15xsf_y0x6c_lt7y80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/prefix-gzumbzwykmcvrgckyccfivuewnax/prefix.pch -MMD -MT dependencies -MF /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/isaac.d --serialize-diagnostics /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/isaac.dia -c /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/isaac.c -o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/isaac.o36"7F27C3E3-F0AB-42EC-B50E-25E1594126A7-
+
+CCompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/qr_finder.o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/decoder/qr_finder.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s394292770.798402
+e394292770.898341
+r1
+xCompileC
+xbuild/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/qr_finder.o
+x/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/decoder/qr_finder.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/decoder/qr_finder.ca0f9cc226e80b741^d906e6226e80b741^---0#0#0#-19%DVTDocumentLocation2@83"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/decoder/qr_finder.c0000000000000000^2318"CompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/qr_finder.o ../zbar/decoder/qr_finder.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tony/Dev/ZBarLib/zzz/zbar/iphone    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DNDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -mios-simulator-version-min=3.1 -I/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator/include -Iinclude -I../include -I../zbar -I/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/DerivedSources/i386 -I/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/DerivedSources -F/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator -include /var/folders/ty/gppcrvc15xsf_y0x6c_lt7y80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/prefix-gzumbzwykmcvrgckyccfivuewnax/prefix.pch -MMD -MT dependencies -MF /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/qr_finder.d --serialize-diagnostics /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/qr_finder.dia -c /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/decoder/qr_finder.c -o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/qr_finder.o36"BC5531DC-4CD0-476B-A1B7-1B82CB582692-
+
+CCompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/qrdec.o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/qrdec.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s394292771.146752
+e394292772.564723
+r1
+xCompileC
+xbuild/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/qrdec.o
+x/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/qrdec.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/qrdec.c:2521:22: warning: '&&' within '||' [-Wlogical-op-parentheses]
+o    if(nerrs[besti]>3&&nerrs[i]<=3||
+o       ~~~~~~~~~~~~~~^~~~~~~~~~~~~~~
+o/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/qrdec.c:2521:22: note: place parentheses around the '&&' expression to silence this warning
+o    if(nerrs[besti]>3&&nerrs[i]<=3||
+o                     ^
+o       (                          )
+o/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/qrdec.c:2522:51: warning: '&&' within '||' [-Wlogical-op-parentheses]
+o     count[i]>count[besti]||count[i]==count[besti]&&nerrs[i]<nerrs[besti]){
+o                          ~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~
+o/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/qrdec.c:2522:51: note: place parentheses around the '&&' expression to silence this warning
+o     count[i]>count[besti]||count[i]==count[besti]&&nerrs[i]<nerrs[besti]){
+o                                                  ^
+o                            (                                            )
+o/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/qrdec.c:3058:36: warning: '&' within '|' [-Wbitwise-op-parentheses]
+o          bits=bits<<1|data1>>nbits&1;
+o                      ~~~~~~~~~~~~~^~
+o/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/qrdec.c:3058:36: note: place parentheses around the '&' expression to silence this warning
+o          bits=bits<<1|data1>>nbits&1;
+o                                   ^
+o                       (             )
+o/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/qrdec.c:3063:36: warning: '&' within '|' [-Wbitwise-op-parentheses]
+o          bits=bits<<1|data2>>nbits&1;
+o                      ~~~~~~~~~~~~~^~
+o/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/qrdec.c:3063:36: note: place parentheses around the '&' expression to silence this warning
+o          bits=bits<<1|data2>>nbits&1;
+o                                   ^
+o                       (             )
+o/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/qrdec.c:3098:29: warning: '&' within '|' [-Wbitwise-op-parentheses]
+o          bits=bits<<1|data1&1;
+o                      ~~~~~~^~
+o/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/qrdec.c:3098:29: note: place parentheses around the '&' expression to silence this warning
+o          bits=bits<<1|data1&1;
+o                            ^
+o                       (      )
+o/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/qrdec.c:3105:29: warning: '&' within '|' [-Wbitwise-op-parentheses]
+o          bits=bits<<1|data2&1;
+o                      ~~~~~~^~
+o/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/qrdec.c:3105:29: note: place parentheses around the '&' expression to silence this warning
+o          bits=bits<<1|data2&1;
+o                            ^
+o                       (      )
+o/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/qrdec.c:3416:21: warning: '&&' within '||' [-Wlogical-op-parentheses]
+o        if(!(bits>=0&&bits<100||bits>=165&&bits<191||bits>=197&&bits<223)){
+o             ~~~~~~~^~~~~~~~~~~~
+o/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/qrdec.c:3416:21: note: place parentheses around the '&&' expression to silence this warning
+o        if(!(bits>=0&&bits<100||bits>=165&&bits<191||bits>=197&&bits<223)){
+o                    ^
+o             (                )
+o/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/qrdec.c:3416:42: warning: '&&' within '||' [-Wlogical-op-parentheses]
+o        if(!(bits>=0&&bits<100||bits>=165&&bits<191||bits>=197&&bits<223)){
+o                              ~~~~~~~~~~~^~~~~~~~~~
+o/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/qrdec.c:3416:42: note: place parentheses around the '&&' expression to silence this warning
+o        if(!(bits>=0&&bits<100||bits>=165&&bits<191||bits>=197&&bits<223)){
+o                                         ^
+o                                (                  )
+o/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/qrdec.c:3416:63: warning: '&&' within '||' [-Wlogical-op-parentheses]
+o        if(!(bits>=0&&bits<100||bits>=165&&bits<191||bits>=197&&bits<223)){
+o                                                   ~~~~~~~~~~~^~~~~~~~~~
+o/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/qrdec.c:3416:63: note: place parentheses around the '&&' expression to silence this warning
+o        if(!(bits>=0&&bits<100||bits>=165&&bits<191||bits>=197&&bits<223)){
+o                                                              ^
+o                                                     (                  )
+o/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/qrdec.c:3620:26: warning: '&&' within '||' [-Wlogical-op-parentheses]
+o    if(ret<0||_version==1&&ret>ecc_level+1<<1||
+o            ~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~
+o/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/qrdec.c:3620:26: note: place parentheses around the '&&' expression to silence this warning
+o    if(ret<0||_version==1&&ret>ecc_level+1<<1||
+o                         ^
+o              (                              )
+o/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/qrdec.c:3621:31: warning: '&&' within '||' [-Wlogical-op-parentheses]
+o     _version==2&&ecc_level==0&&ret>4){
+o     ~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~
+o/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/qrdec.c:3621:31: note: place parentheses around the '&&' expression to silence this warning
+o     _version==2&&ecc_level==0&&ret>4){
+o                              ^
+o     (                               )
+o11 warnings generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/qrdec.c8e0426236e80b741^939090246e80b741^-5531"/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/qrdec.c:2521:22: warning: '&&' within '||' [-Wlogical-op-parentheses]    if(nerrs[besti]>3&&nerrs[i]<=3||       ~~~~~~~~~~~~~~^~~~~~~~~~~~~~~/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/qrdec.c:2521:22: note: place parentheses around the '&&' expression to silence this warning    if(nerrs[besti]>3&&nerrs[i]<=3||                     ^       (                          )/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/qrdec.c:2522:51: warning: '&&' within '||' [-Wlogical-op-parentheses]     count[i]>count[besti]||count[i]==count[besti]&&nerrs[i]<nerrs[besti]){                          ~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/qrdec.c:2522:51: note: place parentheses around the '&&' expression to silence this warning     count[i]>count[besti]||count[i]==count[besti]&&nerrs[i]<nerrs[besti]){                                                  ^                            (                                            )/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/qrdec.c:3058:36: warning: '&' within '|' [-Wbitwise-op-parentheses]          bits=bits<<1|data1>>nbits&1;                      ~~~~~~~~~~~~~^~/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/qrdec.c:3058:36: note: place parentheses around the '&' expression to silence this warning          bits=bits<<1|data1>>nbits&1;                                   ^                       (             )/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/qrdec.c:3063:36: warning: '&' within '|' [-Wbitwise-op-parentheses]          bits=bits<<1|data2>>nbits&1;                      ~~~~~~~~~~~~~^~/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/qrdec.c:3063:36: note: place parentheses around the '&' expression to silence this warning          bits=bits<<1|data2>>nbits&1;                                   ^                       (             )/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/qrdec.c:3098:29: warning: '&' within '|' [-Wbitwise-op-parentheses]          bits=bits<<1|data1&1;                      ~~~~~~^~/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/qrdec.c:3098:29: note: place parentheses around the '&' expression to silence this warning          bits=bits<<1|data1&1;                            ^                       (      )/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/qrdec.c:3105:29: warning: '&' within '|' [-Wbitwise-op-parentheses]          bits=bits<<1|data2&1;                      ~~~~~~^~/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/qrdec.c:3105:29: note: place parentheses around the '&' expression to silence this warning          bits=bits<<1|data2&1;                            ^                       (      )/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/qrdec.c:3416:21: warning: '&&' within '||' [-Wlogical-op-parentheses]        if(!(bits>=0&&bits<100||bits>=165&&bits<191||bits>=197&&bits<223)){             ~~~~~~~^~~~~~~~~~~~/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/qrdec.c:3416:21: note: place parentheses around the '&&' expression to silence this warning        if(!(bits>=0&&bits<100||bits>=165&&bits<191||bits>=197&&bits<223)){                    ^             (                )/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/qrdec.c:3416:42: warning: '&&' within '||' [-Wlogical-op-parentheses]        if(!(bits>=0&&bits<100||bits>=165&&bits<191||bits>=197&&bits<223)){                              ~~~~~~~~~~~^~~~~~~~~~/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/qrdec.c:3416:42: note: place parentheses around the '&&' expression to silence this warning        if(!(bits>=0&&bits<100||bits>=165&&bits<191||bits>=197&&bits<223)){                                         ^                                (                  )/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/qrdec.c:3416:63: warning: '&&' within '||' [-Wlogical-op-parentheses]        if(!(bits>=0&&bits<100||bits>=165&&bits<191||bits>=197&&bits<223)){                                                   ~~~~~~~~~~~^~~~~~~~~~/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/qrdec.c:3416:63: note: place parentheses around the '&&' expression to silence this warning        if(!(bits>=0&&bits<100||bits>=165&&bits<191||bits>=197&&bits<223)){                                                              ^                                                     (                  )/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/qrdec.c:3620:26: warning: '&&' within '||' [-Wlogical-op-parentheses]    if(ret<0||_version==1&&ret>ecc_level+1<<1||            ~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/qrdec.c:3620:26: note: place parentheses around the '&&' expression to silence this warning    if(ret<0||_version==1&&ret>ecc_level+1<<1||                         ^              (                              )/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/qrdec.c:3621:31: warning: '&&' within '||' [-Wlogical-op-parentheses]     _version==2&&ecc_level==0&&ret>4){     ~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/qrdec.c:3621:31: note: place parentheses around the '&&' expression to silence this warning     _version==2&&ecc_level==0&&ret>4){                              ^     (                               )11 warnings generated.11(36%IDEClangDiagnosticActivityLogMessage2@16"'&&' within '||'-394292772#18446744073709551615#0#1(2@68"Place parentheses around the '&&' expression to silence this warning-394292772#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@68"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/qrdec.c0000000000000000^2520#21#2520#21#83588#0#14"Semantic Issue2(3@68"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/qrdec.c0000000000000000^2520#7#2520#7#83574#0#3@68"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/qrdec.c0000000000000000^2520#34#2520#34#83601#0#-1#27"com.apple.dt.IDE.diagnostic3@68"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/qrdec.c0000000000000000^2520#21#2520#21#83588#0#14"Semantic Issue2(3@68"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/qrdec.c0000000000000000^2520#7#2520#34#83574#26#3@68"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/qrdec.c0000000000000000^2520#34#2520#36#83601#0#-2@16"'&&' within '||'-394292772#18446744073709551615#0#1(2@68"Place parentheses around the '&&' expression to silence this warning-394292772#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@68"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/qrdec.c0000000000000000^2521#50#2521#50#83654#0#14"Semantic Issue2(3@68"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/qrdec.c0000000000000000^2521#28#2521#28#83632#0#3@68"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/qrdec.c0000000000000000^2521#73#2521#73#83677#0#-1#27"com.apple.dt.IDE.diagnostic3@68"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/qrdec.c0000000000000000^2521#50#2521#50#83654#0#14"Semantic Issue2(3@68"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/qrdec.c0000000000000000^2521#28#2521#73#83632#44#3@68"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/qrdec.c0000000000000000^2521#26#2521#28#83630#0#-2@14"'&' within '|'-394292772#18446744073709551615#0#1(2@67"Place parentheses around the '&' expression to silence this warning-394292772#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@68"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/qrdec.c0000000000000000^3057#35#3057#35#101598#0#14"Semantic Issue2(3@68"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/qrdec.c0000000000000000^3057#23#3057#23#101586#0#3@68"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/qrdec.c0000000000000000^3057#37#3057#37#101600#0#-1#27"com.apple.dt.IDE.diagnostic3@68"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/qrdec.c0000000000000000^3057#35#3057#35#101598#0#14"Semantic Issue2(3@68"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/qrdec.c0000000000000000^3057#23#3057#37#101586#13#3@68"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/qrdec.c0000000000000000^3057#22#3057#23#101585#0#-2@14"'&' within '|'-394292772#18446744073709551615#0#1(2@67"Place parentheses around the '&' expression to silence this warning-394292772#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@68"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/qrdec.c0000000000000000^3062#35#3062#35#101744#0#14"Semantic Issue2(3@68"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/qrdec.c0000000000000000^3062#23#3062#23#101732#0#3@68"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/qrdec.c0000000000000000^3062#37#3062#37#101746#0#-1#27"com.apple.dt.IDE.diagnostic3@68"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/qrdec.c0000000000000000^3062#35#3062#35#101744#0#14"Semantic Issue2(3@68"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/qrdec.c0000000000000000^3062#23#3062#37#101732#13#3@68"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/qrdec.c0000000000000000^3062#22#3062#23#101731#0#-2@14"'&' within '|'-394292772#18446744073709551615#0#1(2@67"Place parentheses around the '&' expression to silence this warning-394292772#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@68"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/qrdec.c0000000000000000^3097#28#3097#28#103145#0#14"Semantic Issue2(3@68"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/qrdec.c0000000000000000^3097#23#3097#23#103140#0#3@68"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/qrdec.c0000000000000000^3097#30#3097#30#103147#0#-1#27"com.apple.dt.IDE.diagnostic3@68"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/qrdec.c0000000000000000^3097#28#3097#28#103145#0#14"Semantic Issue2(3@68"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/qrdec.c0000000000000000^3097#23#3097#30#103140#6#3@68"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/qrdec.c0000000000000000^3097#22#3097#23#103139#0#-2@14"'&' within '|'-394292772#18446744073709551615#0#1(2@67"Place parentheses around the '&' expression to silence this warning-394292772#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@68"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/qrdec.c0000000000000000^3104#28#3104#28#103318#0#14"Semantic Issue2(3@68"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/qrdec.c0000000000000000^3104#23#3104#23#103313#0#3@68"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/qrdec.c0000000000000000^3104#30#3104#30#103320#0#-1#27"com.apple.dt.IDE.diagnostic3@68"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/qrdec.c0000000000000000^3104#28#3104#28#103318#0#14"Semantic Issue2(3@68"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/qrdec.c0000000000000000^3104#23#3104#30#103313#6#3@68"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/qrdec.c0000000000000000^3104#22#3104#23#103312#0#-2@16"'&&' within '||'-394292772#18446744073709551615#0#1(2@68"Place parentheses around the '&&' expression to silence this warning-394292772#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@68"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/qrdec.c0000000000000000^3415#20#3415#20#113720#0#14"Semantic Issue2(3@68"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/qrdec.c0000000000000000^3415#13#3415#13#113713#0#3@68"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/qrdec.c0000000000000000^3415#30#3415#30#113730#0#-1#27"com.apple.dt.IDE.diagnostic3@68"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/qrdec.c0000000000000000^3415#20#3415#20#113720#0#14"Semantic Issue2(3@68"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/qrdec.c0000000000000000^3415#13#3415#30#113713#14#3@68"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/qrdec.c0000000000000000^3415#30#3415#32#113730#0#-2@16"'&&' within '||'-394292772#18446744073709551615#0#1(2@68"Place parentheses around the '&&' expression to silence this warning-394292772#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@68"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/qrdec.c0000000000000000^3415#41#3415#41#113741#0#14"Semantic Issue2(3@68"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/qrdec.c0000000000000000^3415#32#3415#32#113732#0#3@68"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/qrdec.c0000000000000000^3415#51#3415#51#113751#0#-1#27"com.apple.dt.IDE.diagnostic3@68"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/qrdec.c0000000000000000^3415#41#3415#41#113741#0#14"Semantic Issue2(3@68"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/qrdec.c0000000000000000^3415#32#3415#51#113732#16#3@68"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/qrdec.c0000000000000000^3415#30#3415#32#113730#0#-2@16"'&&' within '||'-394292772#18446744073709551615#0#1(2@68"Place parentheses around the '&&' expression to silence this warning-394292772#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@68"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/qrdec.c0000000000000000^3415#62#3415#62#113762#0#14"Semantic Issue2(3@68"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/qrdec.c0000000000000000^3415#53#3415#53#113753#0#3@68"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/qrdec.c0000000000000000^3415#72#3415#72#113772#0#-1#27"com.apple.dt.IDE.diagnostic3@68"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/qrdec.c0000000000000000^3415#62#3415#62#113762#0#14"Semantic Issue2(3@68"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/qrdec.c0000000000000000^3415#53#3415#72#113753#16#3@68"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/qrdec.c0000000000000000^3415#51#3415#53#113751#0#-2@16"'&&' within '||'-394292772#18446744073709551615#0#1(2@68"Place parentheses around the '&&' expression to silence this warning-394292772#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@68"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/qrdec.c0000000000000000^3619#25#3619#25#121614#0#14"Semantic Issue2(3@68"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/qrdec.c0000000000000000^3619#14#3619#14#121603#0#3@68"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/qrdec.c0000000000000000^3619#45#3619#45#121634#0#-1#27"com.apple.dt.IDE.diagnostic3@68"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/qrdec.c0000000000000000^3619#25#3619#25#121614#0#14"Semantic Issue2(3@68"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/qrdec.c0000000000000000^3619#14#3619#45#121603#30#3@68"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/qrdec.c0000000000000000^3619#12#3619#14#121601#0#-2@16"'&&' within '||'-394292772#18446744073709551615#0#1(2@68"Place parentheses around the '&&' expression to silence this warning-394292772#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@68"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/qrdec.c0000000000000000^3620#30#3620#30#121667#0#14"Semantic Issue2(3@68"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/qrdec.c0000000000000000^3620#5#3620#5#121642#0#3@68"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/qrdec.c0000000000000000^3620#37#3620#37#121674#0#-1#27"com.apple.dt.IDE.diagnostic3@68"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/qrdec.c0000000000000000^3620#30#3620#30#121667#0#14"Semantic Issue2(3@68"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/qrdec.c0000000000000000^3620#5#3620#37#121642#31#3@68"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/qrdec.c0000000000000000^3619#45#3619#47#121634#0#-0#0#0#-19%DVTDocumentLocation4@78"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/qrdec.c0000000000000000^2292"CompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/qrdec.o ../zbar/qrcode/qrdec.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tony/Dev/ZBarLib/zzz/zbar/iphone    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DNDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -mios-simulator-version-min=3.1 -I/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator/include -Iinclude -I../include -I../zbar -I/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/DerivedSources/i386 -I/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/DerivedSources -F/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator -include /var/folders/ty/gppcrvc15xsf_y0x6c_lt7y80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/prefix-gzumbzwykmcvrgckyccfivuewnax/prefix.pch -MMD -MT dependencies -MF /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/qrdec.d --serialize-diagnostics /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/qrdec.dia -c /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/qrdec.c -o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/qrdec.o36"8EB71779-E147-48DF-B530-897BA0C54FA4-
+
+CCompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/qrdectxt.o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/qrdectxt.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s394292771.188480
+e394292771.436923
+r1
+xCompileC
+xbuild/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/qrdectxt.o
+x/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/qrdectxt.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/qrdectxt.cf1bc30236e80b741^88d96f236e80b741^---0#0#0#-19%DVTDocumentLocation2@81"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/qrdectxt.c0000000000000000^2310"CompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/qrdectxt.o ../zbar/qrcode/qrdectxt.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tony/Dev/ZBarLib/zzz/zbar/iphone    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DNDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -mios-simulator-version-min=3.1 -I/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator/include -Iinclude -I../include -I../zbar -I/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/DerivedSources/i386 -I/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/DerivedSources -F/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator -include /var/folders/ty/gppcrvc15xsf_y0x6c_lt7y80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/prefix-gzumbzwykmcvrgckyccfivuewnax/prefix.pch -MMD -MT dependencies -MF /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/qrdectxt.d --serialize-diagnostics /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/qrdectxt.dia -c /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/qrdectxt.c -o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/qrdectxt.o36"628CAD08-A78D-40DA-AA89-669EFE607E8C-
+
+CCompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/refcnt.o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/refcnt.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s394292771.296372
+e394292771.320507
+r1
+xCompileC
+xbuild/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/refcnt.o
+x/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/refcnt.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compile /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/refcnt.c67604c236e80b741^231152236e80b741^---0#0#0#-19%DVTDocumentLocation2@72"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/refcnt.c0000000000000000^2284"CompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/refcnt.o ../zbar/refcnt.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tony/Dev/ZBarLib/zzz/zbar/iphone    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DNDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -mios-simulator-version-min=3.1 -I/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator/include -Iinclude -I../include -I../zbar -I/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/DerivedSources/i386 -I/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/DerivedSources -F/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator -include /var/folders/ty/gppcrvc15xsf_y0x6c_lt7y80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/prefix-gzumbzwykmcvrgckyccfivuewnax/prefix.pch -MMD -MT dependencies -MF /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/refcnt.d --serialize-diagnostics /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/refcnt.dia -c /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/refcnt.c -o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/refcnt.o36"D8F96487-9FD5-40BC-904F-7199D8A57905-
+
+CCompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/rs.o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/rs.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s394292771.235842
+e394292771.490818
+r1
+xCompileC
+xbuild/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/rs.o
+x/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/rs.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/rs.c:297:29: warning: '&&' within '||' [-Wlogical-op-parentheses]
+o      if(nroots!=2||_x[0]!=s&&_x[1]!=s)_x[nroots++]=s;
+o                  ~~~~~~~~~~^~~~~~~~~~
+o/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/rs.c:297:29: note: place parentheses around the '&&' expression to silence this warning
+o      if(nroots!=2||_x[0]!=s&&_x[1]!=s)_x[nroots++]=s;
+o                            ^
+o                    (                 )
+o1 warning generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/rs.c28d33c236e80b741^33a57d236e80b741^-504"/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/rs.c:297:29: warning: '&&' within '||' [-Wlogical-op-parentheses]      if(nroots!=2||_x[0]!=s&&_x[1]!=s)_x[nroots++]=s;                  ~~~~~~~~~~^~~~~~~~~~/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/rs.c:297:29: note: place parentheses around the '&&' expression to silence this warning      if(nroots!=2||_x[0]!=s&&_x[1]!=s)_x[nroots++]=s;                            ^                    (                 )1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@16"'&&' within '||'-394292771#18446744073709551615#0#1(2@68"Place parentheses around the '&&' expression to silence this warning-394292771#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@65"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/rs.c0000000000000000^296#28#296#28#9868#0#14"Semantic Issue2(3@65"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/rs.c0000000000000000^296#20#296#20#9860#0#3@65"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/rs.c0000000000000000^296#38#296#38#9878#0#-1#27"com.apple.dt.IDE.diagnostic3@65"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/rs.c0000000000000000^296#28#296#28#9868#0#14"Semantic Issue2(3@65"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/rs.c0000000000000000^296#20#296#38#9860#17#3@65"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/qrcode/rs.c0000000000000000^296#18#296#20#9858#0#-0#0#0#-19%DVTDocumentLocation4@75"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/rs.c0000000000000000^2274"CompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/rs.o ../zbar/qrcode/rs.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tony/Dev/ZBarLib/zzz/zbar/iphone    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DNDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -mios-simulator-version-min=3.1 -I/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator/include -Iinclude -I../include -I../zbar -I/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/DerivedSources/i386 -I/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/DerivedSources -F/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator -include /var/folders/ty/gppcrvc15xsf_y0x6c_lt7y80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/prefix-gzumbzwykmcvrgckyccfivuewnax/prefix.pch -MMD -MT dependencies -MF /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/rs.d --serialize-diagnostics /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/rs.dia -c /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/rs.c -o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/rs.o36"66A716B8-D15D-4087-9861-D8941E2DCEAE-
+
+CCompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/scanner.o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/scanner.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s394292771.321995
+e394292771.409357
+r1
+xCompileC
+xbuild/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/scanner.o
+x/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/scanner.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/scanner.c:204:16: warning: comparison of unsigned enum expression < 0 is always false [-Wtautological-compare]
+o        if(tmp < 0 || tmp > edge)
+o           ~~~ ^ ~
+o1 warning generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/scanner.ce7fe52236e80b741^2cd668236e80b741^-233"/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/scanner.c:204:16: warning: comparison of unsigned enum expression < 0 is always false [-Wtautological-compare]        if(tmp < 0 || tmp > edge)           ~~~ ^ ~1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@58"Comparison of unsigned enum expression < 0 is always false-394292771#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@63"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/scanner.c0000000000000000^203#15#203#15#6345#0#14"Semantic Issue2(3@63"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/scanner.c0000000000000000^203#11#203#14#6341#0#3@63"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/zbar/scanner.c0000000000000000^203#17#203#18#6347#0#-0#0#0#-19%DVTDocumentLocation4@73"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/scanner.c0000000000000000^2290"CompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/scanner.o ../zbar/scanner.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tony/Dev/ZBarLib/zzz/zbar/iphone    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DNDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -mios-simulator-version-min=3.1 -I/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator/include -Iinclude -I../include -I../zbar -I/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/DerivedSources/i386 -I/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/DerivedSources -F/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator -include /var/folders/ty/gppcrvc15xsf_y0x6c_lt7y80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/prefix-gzumbzwykmcvrgckyccfivuewnax/prefix.pch -MMD -MT dependencies -MF /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/scanner.d --serialize-diagnostics /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/scanner.dia -c /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/scanner.c -o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/scanner.o36"9F9A6458-2196-48DE-80FA-B29CBCDB1A4D-
+
+CCompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/symbol.o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/symbol.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s394292771.410676
+e394292771.560040
+r1
+xCompileC
+xbuild/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/symbol.o
+x/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/symbol.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compile /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/symbol.c5f9b69236e80b741^0f5e8f236e80b741^---0#0#0#-19%DVTDocumentLocation2@72"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/symbol.c0000000000000000^2284"CompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/symbol.o ../zbar/symbol.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tony/Dev/ZBarLib/zzz/zbar/iphone    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DNDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -mios-simulator-version-min=3.1 -I/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator/include -Iinclude -I../include -I../zbar -I/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/DerivedSources/i386 -I/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/DerivedSources -F/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator -include /var/folders/ty/gppcrvc15xsf_y0x6c_lt7y80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/prefix-gzumbzwykmcvrgckyccfivuewnax/prefix.pch -MMD -MT dependencies -MF /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/symbol.d --serialize-diagnostics /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/symbol.dia -c /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/symbol.c -o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/symbol.o36"B9948EAE-CCE7-4CA0-84A8-55B6E698F61C-
+
+CCompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/util.o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/util.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s394292771.239374
+e394292771.295057
+r1
+xCompileC
+xbuild/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/util.o
+x/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/util.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/util.ce1b33d236e80b741^ca884b236e80b741^---0#0#0#-19%DVTDocumentLocation2@77"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/util.c0000000000000000^2286"CompileC build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/util.o ../zbar/qrcode/util.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tony/Dev/ZBarLib/zzz/zbar/iphone    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DNDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -mios-simulator-version-min=3.1 -I/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator/include -Iinclude -I../include -I../zbar -I/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/DerivedSources/i386 -I/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/DerivedSources -F/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator -include /var/folders/ty/gppcrvc15xsf_y0x6c_lt7y80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/prefix-gzumbzwykmcvrgckyccfivuewnax/prefix.pch -MMD -MT dependencies -MF /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/util.d --serialize-diagnostics /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/util.dia -c /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/../zbar/qrcode/util.c -o /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/util.o36"35CA5785-A441-4AAB-B8AA-79412DBD34F5-
+
+CLibtool /Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator/libzbar.a normal i386
+s394292772.571483
+e394292772.599060
+r1
+xLibtool
+x/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator/libzbar.a
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection150"Libtool /Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator/libzbar.a normal i3860b4493246e80b741^8a5b99246e80b741^---0#0#0#--891"Libtool /Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator/libzbar.a normal i386    cd /Users/tony/Dev/ZBarLib/zzz/zbar/iphone    setenv IPHONEOS_DEPLOYMENT_TARGET 3.1    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -L/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator -filelist /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/Objects-normal/i386/zbar.LinkFileList -o /Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator/libzbar.a36"A6D53E69-1A8F-43F5-8C06-258ADA248255-
+
+CProcessPCH /var/folders/ty/gppcrvc15xsf_y0x6c_lt7y80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/prefix-dwgrqwqyxdhqhxhfnkbqjovfvzzk/prefix.pch.pth include/prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s394292770.458224
+e394292771.145503
+r1
+xProcessPCH
+x/var/folders/ty/gppcrvc15xsf_y0x6c_lt7y80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/prefix-dwgrqwqyxdhqhxhfnkbqjovfvzzk/prefix.pch.pth
+xinclude/prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection29"Precompile include/prefix.pch77d775226e80b741^183f25236e80b741^---0#0#0#-19%DVTDocumentLocation2@74"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/include/prefix.pch0000000000000000^2494"ProcessPCH /var/folders/ty/gppcrvc15xsf_y0x6c_lt7y80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/prefix-dwgrqwqyxdhqhxhfnkbqjovfvzzk/prefix.pch.pth include/prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tony/Dev/ZBarLib/zzz/zbar/iphone    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DNDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=3.1 -I/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator/include -Iinclude -I../include -I../zbar -I/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/DerivedSources/i386 -I/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/DerivedSources -F/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator --serialize-diagnostics /var/folders/ty/gppcrvc15xsf_y0x6c_lt7y80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/prefix-dwgrqwqyxdhqhxhfnkbqjovfvzzk/prefix.pch.dia -c /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/include/prefix.pch -o /var/folders/ty/gppcrvc15xsf_y0x6c_lt7y80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/prefix-dwgrqwqyxdhqhxhfnkbqjovfvzzk/prefix.pch.pth -MMD -MT dependencies -MF /var/folders/ty/gppcrvc15xsf_y0x6c_lt7y80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/prefix-dwgrqwqyxdhqhxhfnkbqjovfvzzk/prefix.pch.d36"337AEFD5-B422-4BBE-96F6-E6EC9A1A1E1D-
+
+CProcessPCH /var/folders/ty/gppcrvc15xsf_y0x6c_lt7y80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/prefix-gzumbzwykmcvrgckyccfivuewnax/prefix.pch.pth include/prefix.pch normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s394292770.458112
+e394292770.477682
+r1
+xProcessPCH
+x/var/folders/ty/gppcrvc15xsf_y0x6c_lt7y80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/prefix-gzumbzwykmcvrgckyccfivuewnax/prefix.pch.pth
+xinclude/prefix.pch
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection29"Precompile include/prefix.pcha3c975226e80b741^a6487a226e80b741^---0#0#0#-19%DVTDocumentLocation2@74"file://localhost/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/include/prefix.pch0000000000000000^2267"ProcessPCH /var/folders/ty/gppcrvc15xsf_y0x6c_lt7y80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/prefix-gzumbzwykmcvrgckyccfivuewnax/prefix.pch.pth include/prefix.pch normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tony/Dev/ZBarLib/zzz/zbar/iphone    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c-header -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DNDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -mios-simulator-version-min=3.1 -I/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator/include -Iinclude -I../include -I../zbar -I/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/DerivedSources/i386 -I/Users/tony/Dev/ZBarLib/zzz/zbar/iphone/build/zbar.build/Release-iphonesimulator/libzbar.build/DerivedSources -F/Users/tony/Library/Developer/Xcode/DerivedData/zbar-bulhhluxtlyavtbjolfynvyveigk/Build/Products/Release-iphonesimulator --serialize-diagnostics /var/folders/ty/gppcrvc15xsf_y0x6c_lt7y80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/prefix-gzumbzwykmcvrgckyccfivuewnax/prefix.pch.dia -c /Users/tony/Dev/ZBarLib/zzz/zbar/iphone/include/prefix.pch -o /var/folders/ty/gppcrvc15xsf_y0x6c_lt7y80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/prefix-gzumbzwykmcvrgckyccfivuewnax/prefix.pch.pth -MMD -MT dependencies -MF /var/folders/ty/gppcrvc15xsf_y0x6c_lt7y80000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/prefix-gzumbzwykmcvrgckyccfivuewnax/prefix.pch.d36"19DC2C72-EB8E-461B-BE2B-F65106987D25-
+
